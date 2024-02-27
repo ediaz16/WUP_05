@@ -80,6 +80,7 @@ chisqtestGC(table1)
 fisher.test(table1)
 ```
 
+The P value is 0.0000000423 < 0.05 therefore we reject the $H_0$. 
 
 # Discussion and Conclusion
 

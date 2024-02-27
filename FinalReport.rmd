@@ -19,7 +19,7 @@ A new  preventative aides drug (triUmpsal) is under test in clinical trials. Con
 
 $H-0$: Considering only DugUsers data the drug is effective.
 
-$H_A$: Considering only DrugUser data the drug does not seem effective.
+$H_A$: Considering only DrugUser data the drug does not is effective.
 
 # Methods
 
@@ -57,7 +57,7 @@ barchartGC(~infected + treatment,data=drugUserdata, type="percent")
 
 ```
 
-This percent barchart shows 
+This percent barchart shows among those that had aids 
 
 ### Numerical Descriptive Results
 
@@ -80,7 +80,7 @@ chisqtestGC(table1)
 fisher.test(table1)
 ```
 
-The P value is 0.0000000423 < 0.05 therefore we reject the $H_0$. 
+The P value is 0.0000000423 < 0.05 therefore we reject the $H_0$. Conclude that the new drug is effective.If the take the treatment the of odds of getting aids is 0.3534128. 
 
 # Discussion and Conclusion
 

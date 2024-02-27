@@ -17,7 +17,9 @@ triUmp <-read.csv(file="triUmpsal.csv",header=TRUE)
 
 A new  preventative aides drug (triUmpsal) is under test in clinical trials. Consider only the DrugUsers, does this drug seem effective?  Hint - use dplyr to obtain that subpopulation with the filter command.
 
-$H-0$:
+$H-0$: Considering only DugUsers data the drug is effective.
+
+$H_A$: Considering only DrugUser data the drug does not seem effective.
 
 # Methods
 
@@ -31,7 +33,7 @@ Infected - categorical
 Infected depends on treatment among drug users
 
 
-We get just the drug isers from the population
+We get just the drug users from the population
 
 ```{r}
 drugUsersData = select(triUmp, treatment, DrugUser, infected)

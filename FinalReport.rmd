@@ -69,7 +69,7 @@ rowPerc(table1)
 colPerc(table1)
 ```
 
-In this t
+In this table graph shows from those infected with aids 24.29% were getting the drug and 75.71% were getting the placebo, therefore the drug is more effective.
 
 ## Inferential Results
 
@@ -86,3 +86,6 @@ The P value is 0.0000000423 < 0.05 therefore we reject the $H_0$. Conclude that 
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+The new preventative aids drug is effective. The P value is 0.0000000423 < 0.05 therefore we reject the $H_0$. This percent barchart shows among those that had aids were given the drug shows a lower percentage therfore the drug is effective.In this table graph shows from those infected with aids 24.29% were getting the drug and 75.71% were getting the placebo, therefore the drug is more effective.
+

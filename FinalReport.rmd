@@ -57,7 +57,7 @@ barchartGC(~infected + treatment,data=drugUserdata, type="percent")
 
 ```
 
-This percent barchart shows among those that had aids 
+This percent barchart shows among those that had aids were given the drug shows a lower percentage therfore the drug is effective.
 
 ### Numerical Descriptive Results
 
@@ -69,6 +69,7 @@ rowPerc(table1)
 colPerc(table1)
 ```
 
+In this t
 
 ## Inferential Results
 
